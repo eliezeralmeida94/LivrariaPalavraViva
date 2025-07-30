@@ -1,0 +1,26 @@
+📄 Projeto Integrador II – Etapa 4
+Aluno: Eliezer
+
+Instruções:
+- Abra o projeto no NetBeans.
+- Execute LoginView para iniciar o sistema. (Login continua sendo simulado, os dados para login estão no banco porem deixarei no final desse documento).
+- Utilize os botões para navegar entre as telas do sistema.
+
+Funcionalidades implementadas:
+✅ Conexão com banco de dados MySQL
+✅ Cadastro de livros com gravação no banco
+✅ Consulta de livros com filtros por título, autor, categoria e preço
+✅ Botões de editar e excluir funcionando
+✅ Tabela alimentada dinamicamente com dados do banco
+✅ Interface gráfica simples e funcional
+
+Observações:
+- O banco de dados utilizado é o MySQL, com a tabela 'livro' já populada com dados de exemplo.
+- O script .sql do banco está incluído na pasta zipada.
+- Todos os dados usados no projeto são reais e vêm diretamente do banco.
+
+Dados para login:
+1° usuário, 2°login, 3° senha, 4° permissão 
+('Lafas Admin', 'admin', '123', 'Administrador'),
+('Maria Operadora', 'maria', '123', 'Operador'),
+('João Leitor', 'joao', '123', 'Usuário');
